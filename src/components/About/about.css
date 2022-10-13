@@ -1,0 +1,26 @@
+.about_up{
+    text-align: center;
+    margin-top: 10rem;
+}
+
+.about_down{
+    display: flex;
+    width: 80%;
+    padding: 0 4rem;
+}
+
+.about_down .down_image{
+    width: 50%;
+}
+
+.about_down-right {
+    width: 50%;
+    margin-top: 5rem;
+}
+
+.down_image img{
+    width: 80%;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    
+}

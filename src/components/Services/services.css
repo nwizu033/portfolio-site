@@ -1,0 +1,23 @@
+.services_up{
+    text-align: center;
+    margin: 10rem 0 5rem 0;
+}
+
+.services_down {
+    display: flex;
+    justify-content: center;
+}
+.services_down div{
+    background-color: var(--gray);
+    margin: 0 2rem;
+    padding: 2rem 4rem;
+    border-radius: 3rem;
+    width: 30%;
+    text-align: center;
+}
+
+.services_down div li{
+    text-align: start;
+    line-height: 2rem;
+    margin-top: 1.2rem;
+}

@@ -1,0 +1,32 @@
+.portfolio_up{
+    text-align: center;
+    margin: 10rem 0 5rem 0;
+}
+
+.project_container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 0 4rem;
+}
+
+.project {
+    width:30%;
+    border: 2px solid transparent;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    border-radius: 5rem;
+    display: flex;
+    flex-direction: column;
+    padding: 0
+}
+.project_down{
+    margin: 0 3rem;
+}
+
+.project img{
+    width: 80%;
+    aspect-ratio: 1/1;
+    margin: 0 10% 0 10%;
+    border-radius: 2rem;
+}
